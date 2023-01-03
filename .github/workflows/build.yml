@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: Update Readme stats
 
 on:
   schedule:
@@ -7,7 +7,6 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master

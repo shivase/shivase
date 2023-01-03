@@ -1,9 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shivase&color=red)
 
-<p>
-  <a href="https://www.twitter.com/shivasek5"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-</p>
+
 
 
 ![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
@@ -28,11 +26,37 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/shivase/obsidian-textlint?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shivase/obsidian-textlint?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/shivase/popclip-monokakido"><b>PopClip 物書堂Extension</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shivase/popclip-monokakido?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shivase/popclip-monokakido?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shivase/popclip-monokakido?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shivase/popclip-monokakido?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shivase/alfred-workflow-deepl-google-translation"><b>Alfred DeepL & Google Translation workflow</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shivase/alfred-workflow-deepl-google-translation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shivase/alfred-workflow-deepl-google-translation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shivase/alfred-workflow-deepl-google-translation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shivase/alfred-workflow-deepl-google-translation?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shivase/alfred-simple-todoist"><b>Alfred Simple Todoist Workflow</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shivase/alfred-simple-todoist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shivase/alfred-simple-todoist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shivase/alfred-simple-todoist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shivase/alfred-simple-todoist?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.twitter.com/shivasek5"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+</p>
 
 <p>
   <a href="https://www.buymeacoffee.com/shivase" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="30" width="150" >
   </a>
- </p>
+</p>

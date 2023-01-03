@@ -52,6 +52,12 @@
   </tbody>
 </table>
 
+<h3>tmp</h3>
+<img
+  src="https://github.com/shivase/shivase/blob/main/images/stat.svg"
+  alt="shivase WakaTime Activity"
+/>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.twitter.com/shivasek5">

@@ -53,10 +53,6 @@
 </table>
 
 <h3>My GitHub data</h3>
-<img
-  src="https://github.com/shivase/shivase/blob/main/images/stat.svg"
-  alt="shivase WakaTime Activity"
-/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2031%20mins-blue)

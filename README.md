@@ -5,13 +5,13 @@
 
 <p>
   <a href="https://zenn.dev/shivase">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/shivase/likes" />
+    <img src="https://zenn.badge.nikaera.com/s/shivase/likes?style=flat-square" alt="shivase likes" />
   </a>
-  <a href="https://zenn.dev/shivase">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/shivase/followers" />
+  <a href="https://zenn.dev/shivase/articles">
+    <img src="https://zenn.badge.nikaera.com/s/shivase/articles?style=flat-square" alt="shivase articles" />
   </a>
-  <a href="https://zenn.dev/shivase">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/shivase/articles" />
+  <a href="https://zenn.dev/shivase/followers">
+    <img src="https://zenn.badge.nikaera.com/s/shivase/followers?style=flat-square" alt="shivase followers" />
   </a>
 </p>
 

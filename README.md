@@ -58,6 +58,9 @@
   alt="shivase WakaTime Activity"
 />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.twitter.com/shivasek5">

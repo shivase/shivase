@@ -1,8 +1,10 @@
 
+<h2>Welcome to my page!!</h2>
+
 ![](https://komarev.com/ghpvc/?username=shivase&color=red)
+[![Articles](https://badgen.org/img/zenn/shivase/articles?style=flat)](https://zenn.dev/shivase)
 
-
-
+<h3>Github Stats</h3>
 
 ![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)

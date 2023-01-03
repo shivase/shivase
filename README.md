@@ -90,6 +90,10 @@ Mac                      1 hr 40 mins        ███████████�
  Last Updated on 03/01/2023 23:25:37 UTC
 <!--END_SECTION:waka-->
 
+<h3>Language / Framework stats
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shivase" />
+
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.twitter.com/shivasek5">

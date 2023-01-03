@@ -2,7 +2,18 @@
 <h2>Welcome to my page!!</h2>
 
 ![](https://komarev.com/ghpvc/?username=shivase&color=red)
-[![Articles](https://badgen.org/img/zenn/shivase/articles?style=flat)](https://zenn.dev/shivase)
+
+<p>
+  <a href="https://zenn.dev/shivase">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/shivase/likes" />
+  </a>
+  <a href="https://zenn.dev/shivase">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/shivase/followers" />
+  </a>
+  <a href="https://zenn.dev/shivase">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/shivase/articles" />
+  </a>
+</p>
 
 <h3>Github Stats</h3>
 

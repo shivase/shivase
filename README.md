@@ -52,7 +52,7 @@
   </tbody>
 </table>
 
-<h3>tmp</h3>
+<h3>My GitHub data</h3>
 <img
   src="https://github.com/shivase/shivase/blob/main/images/stat.svg"
   alt="shivase WakaTime Activity"

@@ -15,11 +15,6 @@
   </a>
 </p>
 
-<h3>Github Stats</h3>
-
-![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
-![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -62,6 +57,11 @@
     </tr>
   </tbody>
 </table>
+
+<h3>Github Stats</h3>
+
+![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/shivase/profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)
 
 <h3>My Wakatime data</h3>
 

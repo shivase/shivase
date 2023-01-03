@@ -2,12 +2,13 @@ name: Update Readme stats
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    name: waka-readme-stats
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:

@@ -15,6 +15,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          LOCALE: "en"
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here

@@ -66,8 +66,6 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%201%20min-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -87,7 +85,7 @@ Mac                      1 hr 40 mins        ███████████�
 ```
 
 
- Last Updated on 03/01/2023 23:25:37 UTC
+ Last Updated on 04/01/2023 00:51:22 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

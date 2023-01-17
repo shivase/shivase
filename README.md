@@ -70,20 +70,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               23 mins             ███████████████░░░░░░░░░░   62.08% 
-Markdown                 13 mins             █████████░░░░░░░░░░░░░░░░   35.99% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 17/01/2023 15:11:30 UTC
+ Last Updated on 17/01/2023 18:13:05 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

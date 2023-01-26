@@ -70,18 +70,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/01/2023 15:10:43 UTC
+ Last Updated on 26/01/2023 18:12:46 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

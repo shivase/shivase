@@ -83,17 +83,18 @@ Sunday                   58 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     45 mins             █████████████░░░░░░░░░░░░   51.77 % 
+Jupyter                  42 mins             ████████████░░░░░░░░░░░░░   48.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+DataSpell                1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/12/2023 15:09:25 UTC
+ Last Updated on 10/12/2023 18:12:08 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

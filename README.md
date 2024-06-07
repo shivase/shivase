@@ -83,17 +83,17 @@ Sunday                   102 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/06/2024 15:11:58 UTC
+ Last Updated on 07/06/2024 18:15:26 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

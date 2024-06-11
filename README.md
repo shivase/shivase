@@ -83,17 +83,19 @@ Sunday                   102 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  0 secs              █████████████████████████   99.90 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+DataSpell                0 secs              █████████████████████████   99.90 % 
+Intellijidea             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/2024 15:12:09 UTC
+ Last Updated on 11/06/2024 18:15:45 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

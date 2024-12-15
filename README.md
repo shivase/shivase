@@ -83,17 +83,17 @@ Sunday                   110 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Smarty                   1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/12/2024 15:12:48 UTC
+ Last Updated on 15/12/2024 18:17:14 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

@@ -83,17 +83,17 @@ Sunday                   307 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                39 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/02/2025 15:14:46 UTC
+ Last Updated on 05/02/2025 18:18:13 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

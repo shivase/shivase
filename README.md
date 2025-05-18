@@ -83,18 +83,17 @@ Sunday                   474 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   25 mins             █████████████████████████   99.23 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/05/2025 15:13:58 UTC
+ Last Updated on 18/05/2025 18:18:40 UTC
 <!--END_SECTION:waka-->
 
 <h3>Language / Framework stats

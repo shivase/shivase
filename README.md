@@ -3,18 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=shivase&color=red)
 
-<p>
-  <a href="https://zenn.dev/shivase">
-    <img src="https://zenn.badge.nikaera.com/s/shivase/likes?style=flat-square" alt="shivase likes" />
-  </a>
-  <a href="https://zenn.dev/shivase/articles">
-    <img src="https://zenn.badge.nikaera.com/s/shivase/articles?style=flat-square" alt="shivase articles" />
-  </a>
-  <a href="https://zenn.dev/shivase/followers">
-    <img src="https://zenn.badge.nikaera.com/s/shivase/followers?style=flat-square" alt="shivase followers" />
-  </a>
-</p>
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -104,13 +92,9 @@ Mac                      33 hrs              ███████████�
  Last Updated on 20/07/2025 01:21:21 UTC
 <!--END_SECTION:waka-->
 
-<h3>Language / Framework stats
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shivase" />
-
-
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.twitter.com/shivasek5">
+  <a href="https://www.twitter.com/sumik5">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
   <a href="https://zenn.dev/shivase">
